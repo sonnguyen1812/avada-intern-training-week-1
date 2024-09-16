@@ -10,9 +10,9 @@ const generateProducts = (num) => {
       price: faker.commerce.price(),
       description: faker.commerce.productDescription(),
       product: faker.commerce.product(),
-      color: faker.commerce.color(),
+      color: faker.color.human(),
       createdAt: faker.date.past(),
-      image: faker.image.imageUrl()
+      image: faker.image.url()
     });
   }
   return products;
