@@ -1,0 +1,18 @@
+{
+  "userWithMostComments": {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "commentsCount": 50,
+    "postsCount": 10
+  },
+  "userWithMostPosts": {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "commentsCount": 50,
+    "postsCount": 10
+  }
+}
